@@ -1,0 +1,26 @@
+@import "bootstrap";
+
+body{
+  padding-top: 20px;
+}
+.social-media a{
+  text-decoration: none;
+}
+.mid-text{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.float-this{
+  position: absolute;
+  top: 150px;
+  left: 150px;
+}
+.float-this h4{
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.signup-form{
+  margin-bottom: 55px;
+}
